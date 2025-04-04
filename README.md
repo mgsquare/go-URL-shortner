@@ -1,1 +1,1 @@
-This is a simple redis based URL shortner
+**This is a simple redis based URL shortner**
